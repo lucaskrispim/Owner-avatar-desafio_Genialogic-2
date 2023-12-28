@@ -1,0 +1,12 @@
+.botao {
+    border: none;
+    padding: 30px;
+    border-radius: 50%; /* Torna o botão redondo */
+    transition: border-radius 0.3s, background-color 0.3s; /* Adiciona transição para suavizar a mudança */
+
+  }
+  
+  .botao:hover {
+    border-radius: 0; /* Torna o botão quadrado ao passar o mouse sobre ele */
+  }
+  
